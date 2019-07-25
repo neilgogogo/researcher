@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="neil.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harbin.
 
 ## Research Interest
 
@@ -15,10 +15,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 ## PROJECTS
 
 1. Research on the relationship between sentiment classification of Chinese news and stock price based on SVM.
+> Used the knowledge of natural language processing, probability theory and algorithm to calculate the news sentiment tendency of one particular stock.
+> Compared the relevance of the later five trading days’ stock trend and the news’ emotional tendency. 
 2. A 4-minute computer-animated film(A penguin can fly)
 3. Design of Online Business Management System
 
-## Typography
+## WORKING EXPERIENCE
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
