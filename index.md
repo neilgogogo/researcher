@@ -8,9 +8,15 @@ layout: default
 
 Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harbin.
 
+GPA:3.3/4.0
+
 ## Research Interest
 
+## EDUCATION
 
+1.**Harbin Institute of technology**,Sep 2013 - Jul 2017
+
+**Bachelor’s Degree of Engineering in Digital Media**,Harbin,China
 
 ## PROJECTS
 
@@ -61,6 +67,9 @@ Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harb
 
 Date | Award | Category
 -----|-------|--------
-2016 | 1st prize of Chinese College Computer Design Competition  | Digital Media
-2016 | 2nd prize of Chinese College Computer Design Competition | Animation& Computer Games
+2016 | **1st prize of Chinese College Computer Design Competition**  | Digital Media
+2016 | **2nd prize of Chinese College Computer Design Competition** | Animation& Computer Games
 
+## SKILLS
+1. Programming Languages:  C++, C, Python
+2. Tools:  Maya, Flash, Vegas, Final, Unity 3D, MySQL, PhotoShop
