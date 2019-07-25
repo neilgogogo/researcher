@@ -59,7 +59,7 @@ GPA:3.3/4.0
 
 **Founder**,Harbin, China
 
-* Made videos(Guide shooting, shoot videos, edit videos) for doctoral weddings, college celebrations, etc.
+* Made videos(Guide shooting, shoot videos, edit videos) for doctoral weddings, college celebrations, graduation ceremony, etc.
 
 ## HONORS
 
