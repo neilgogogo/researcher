@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## PROJECTS
 
-1. Research on the relationship between sentiment classification of Chinese news and stock price based on SVM.
+1. Research on the relationship between sentiment classification of Chinese news and stock price based on SVM,*Nov 2016-Jun 2017*.
 
 * Used the knowledge of natural language processing, probability theory and algorithm to calculate the news sentiment tendency of one particular stock.
 * Compared the relevance of the later five trading days’ stock trend and the news’ emotional tendency. 
