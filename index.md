@@ -57,7 +57,7 @@ Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harb
 
 * Made videos(Guide shooting, shoot videos, edit videos) for doctoral weddings, college celebrations, etc.
 
-##HONORS
+## HONORS
 
 Date | Award | Category
 -----|-------|--------
