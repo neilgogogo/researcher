@@ -42,15 +42,20 @@ Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harb
 
 ---
 
-**Product Manager**,Aug 2017 – Apr 2018
+**Hdfax(a Financial Technology Company under Evergrande Group)**,Aug 2017 – Apr 2018
 
-**Hdfax(a Financial Technology Company under Evergrande Group)**,Shenzhen, China
+**Product Manager**,Shenzhen, China
 
 * Collected requirements and designed solutions for Internet micro-credit products.
 * Field research on target users' using habits of micro-credit products.
 
 ---
 
+**Personal Media Studio**,Sep 2015 – Dec 2016
+
+**Founder**,Harbin, China
+
+* Made videos(Guide shooting, shoot videos, edit videos) for doctoral weddings, college celebrations, etc.
 
 
 Year | Award | Category
