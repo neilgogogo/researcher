@@ -57,12 +57,13 @@ Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harb
 
 * Made videos(Guide shooting, shoot videos, edit videos) for doctoral weddings, college celebrations, etc.
 
+##HONORS
 
-Year | Award | Category
+Date | Award | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2014 | 1st prize of Chinese College Computer Design Competition  | Digital Media
+2015 | 2nd prize of Chinese College Computer Design Competition | Animation& Computer Games
+
 
 
 
