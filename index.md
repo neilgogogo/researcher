@@ -31,6 +31,10 @@ Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harb
 * Stored users, case details and other information with MySQL database.
 * Utilized HTML/CSS, and BootStrap template for front-end implementation.
 
+4. ddd
+
+5. ddd
+
 ## WORKING EXPERIENCE
 
 **Evergrande Group(Forbes Global Top 100 Enterprises)**,Apr 2018 – Present
