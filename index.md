@@ -15,9 +15,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 ## PROJECTS
 
 1. Research on the relationship between sentiment classification of Chinese news and stock price based on SVM.
-> Used the knowledge of natural language processing, probability theory and algorithm to calculate the news sentiment tendency of one particular stock.
-> Compared the relevance of the later five trading days’ stock trend and the news’ emotional tendency. 
+
+*Used the knowledge of natural language processing, probability theory and algorithm to calculate the news sentiment tendency of one particular stock.
+*Compared the relevance of the later five trading days’ stock trend and the news’ emotional tendency. 
+
 2. A 4-minute computer-animated film(A penguin can fly)
+
 3. Design of Online Business Management System
 
 ## WORKING EXPERIENCE
