@@ -10,22 +10,23 @@ Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harb
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+
 
 ## PROJECTS
 
-1. Research on the relationship between sentiment classification of Chinese news and stock price based on SVM,*Nov 2016-Jun 2017*.
+1. **Research on the relationship between sentiment classification of Chinese news and stock price based on SVM**.
+Nov 2016-Jun 2017
 
 * Used the knowledge of natural language processing, probability theory and algorithm to calculate the news sentiment tendency of one particular stock.
 * Compared the relevance of the later five trading days’ stock trend and the news’ emotional tendency. 
 
-2. A 4-minute computer-animated film(A penguin can fly)
+2. **A 4-minute computer-animated film(A penguin can fly)**
 
 * Designed the story line, animation scripts. Built the cartoon characters’ model with Maya.
 * Studied on the animation performance and authenticity of ice and characters under different parameters namely materials, lighting, texture mapping in Maya.
 * Edited, added sounds and special effects.
 
-3. Design of Online Business Management System
+3. **Design of Online Business Management System**
 
 * Developed a web social app based on PHP.
 * Stored users, case details and other information with MySQL database.
