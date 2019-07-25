@@ -61,10 +61,8 @@ Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harb
 
 Date | Award | Category
 -----|-------|--------
-2014 | 1st prize of Chinese College Computer Design Competition  | Digital Media
-2015 | 2nd prize of Chinese College Computer Design Competition | Animation& Computer Games
-
-
+2016 | 1st prize of Chinese College Computer Design Competition  | Digital Media
+2016 | 2nd prize of Chinese College Computer Design Competition | Animation& Computer Games
 
 
 
