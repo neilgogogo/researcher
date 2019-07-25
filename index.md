@@ -33,9 +33,9 @@ Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harb
 
 ## WORKING EXPERIENCE
 
-**Application System Engineer**,Apr 2018 – Present
+**Evergrande Group(Forbes Global Top 100 Enterprises)**,Apr 2018 – Present
 
-**Evergrande Group(Forbes Global Top 100 Enterprises)**,Shenzhen, China
+**Application System Engineer**,Shenzhen, China
 
 * Tested the accuracy of the artificial intelligence service robot, found the factors that can affect its behavior and then trained the robot to raise the answer accuracy.
 * Managed the project of the meeting reservation system, including requirements collection, system design, system development&testing, project acceptance, system promotion.
