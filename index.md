@@ -12,9 +12,9 @@ Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harb
 
 1.**Harbin Institute of technology**,Sep 2013 - Jul 2017
 
-**Bachelor’s Degree of Engineering in Digital Media**,Harbin,China
+  **Bachelor’s Degree of Engineering in Digital Media**,Harbin,China
 
-GPA:3.3/4.0
+    GPA:3.3/4.0
 
 ## PROJECTS
 
