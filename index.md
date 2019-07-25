@@ -40,6 +40,16 @@ Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, Harb
 * Tested the accuracy of the artificial intelligence service robot, found the factors that can affect its behavior and then trained the robot to raise the answer accuracy.
 * Managed the project of the meeting reservation system, including requirements collection, system design, system development&testing, project acceptance, system promotion.
 
+---
+
+**Product Manager**,Aug 2017 – Apr 2018
+
+**Hdfax(a Financial Technology Company under Evergrande Group)**,Shenzhen, China
+
+* Collected requirements and designed solutions for Internet micro-credit products.
+* Field research on target users' using habits of micro-credit products.
+
+---
 
 
 
