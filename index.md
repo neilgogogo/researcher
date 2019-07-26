@@ -70,4 +70,5 @@ GPA:3.3/4.0
 
 ## SKILLS
 **Programming Languages**:  C++, C, Python
+
 **Tools**:                  Maya, Flash, Unity 3D, MySQL, Vegas, Finalcut, PhotoShop
