@@ -73,6 +73,10 @@ Date | Award | Category
 2016 | **1st prize of Chinese College Computer Design Competition**  | Digital Media
 2016 | **2nd prize of Chinese College Computer Design Competition** | Animation& Computer Games
 
+1. **1st prize of Chinese College Computer Design Competition(Digital Media)**, Hefei, China. 
+
+2. **2nd prize of Chinese College Computer Design Competition(Animation& Computer Games)**, Xiamen, China.
+
 ## SKILLS
-1. Programming Languages:  C++, C, Python
-2. Tools:  Maya, Flash, Unity 3D, MySQL, Vegas, Finalcut, PhotoShop
+1. Programming Languages:  C++, C, Python.
+2. Tools:  Maya, Flash, Unity 3D, MySQL, Vegas, Finalcut, PhotoShop.
