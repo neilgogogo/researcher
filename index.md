@@ -69,5 +69,5 @@ GPA:3.3/4.0
 2. **2nd prize of Chinese College Computer Design Competition(Animation& Computer Games)**, Xiamen, China.
 
 ## SKILLS
-|Programming Languages|C++, C, Python|
-|Tools|Maya, Flash, Unity 3D, MySQL, Vegas, Finalcut, PhotoShop|
+Programming Languages|C++, C, Python
+Tools|Maya, Flash, Unity 3D, MySQL, Vegas, Finalcut, PhotoShop
