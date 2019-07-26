@@ -68,11 +68,6 @@ GPA:3.3/4.0
 
 ## HONORS
 
-Date | Award | Category
------|-------|--------
-2016 | **1st prize of Chinese College Computer Design Competition**  | Digital Media
-2016 | **2nd prize of Chinese College Computer Design Competition** | Animation& Computer Games
-
 1. **1st prize of Chinese College Computer Design Competition(Digital Media)**, Hefei, China. 
 
 2. **2nd prize of Chinese College Computer Design Competition(Animation& Computer Games)**, Xiamen, China.
