@@ -2,11 +2,7 @@
 layout: default
 ---
 
-## About Me
-
 <img class="profile-picture" src="neil.jpg">
-
-Hi! I am a graduate of **Digital media** at Harbin Institute of Technology, China.
 
 ## EDUCATION
 
