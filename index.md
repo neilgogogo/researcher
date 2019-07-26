@@ -75,4 +75,4 @@ Date | Award | Category
 
 ## SKILLS
 1. Programming Languages:  C++, C, Python
-2. Tools:  Maya, Flash, Vegas, Final, Unity 3D, MySQL, PhotoShop
+2. Tools:  Maya, Flash, Unity 3D, MySQL, Vegas, Finalcut, PhotoShop
