@@ -51,7 +51,7 @@ GPA:3.3/4.0
 
 **Sales Consultant**, Shaoguan, China
 
-*Sold more than 10 million micro-credit products.
+* Sold more than 10 million micro-credit products.
 
 ---
 
