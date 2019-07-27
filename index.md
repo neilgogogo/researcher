@@ -47,7 +47,15 @@ GPA:3.3/4.0
 
 ---
 
-**Hdfax(a Financial Technology Company under Evergrande Group)**,Aug 2017 – Apr 2018
+**Hdfax(a Financial Technology Company under Evergrande Group)**,Jan – Apr 2018
+
+**Sales Consultant**, Shaoguan, China
+
+*Sold more than 10 million micro-credit products.
+
+---
+
+**Hdfax(a Financial Technology Company under Evergrande Group)**,Aug 2017 – Jan 2018
 
 **Product Manager**,Shenzhen, China
 
