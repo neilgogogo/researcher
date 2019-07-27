@@ -38,26 +38,27 @@ GPA:3.3/4.0
 
 ## WORKING EXPERIENCE
 
-**Evergrande Group(Forbes Global Top 100 Enterprises)**,Apr 2018 – Present
+**Evergrande Group(Forbes Global Top 100 Enterprises)**,Shenzhen, China
 
-**Application System Engineer**,Shenzhen, China
+**Project Manager**, Apr 2018 – Present
 
-* Tested the accuracy of the artificial intelligence service robot, found the factors that can affect its behavior and then trained the robot to raise the answer accuracy.
 * Managed the project of the meeting reservation system, including requirements collection, system design, system development&testing, project acceptance, system promotion.
+
+**Project Manager and Application System Engineer**, Apr 2018 – Mar 2019
+
+* Participated in the Construction of AI Service Robot in Evergrande Group(a group key project).
+* tested the accuracy of the answer, and found the factors that can affect its behavior and then trained the robot to raise the answer accuracy.
+* Data Analysis for the AI Robot Usage.Take measures namely to inrease the user activity.
 
 ---
 
-**Hdfax(a Financial Technology Company under Evergrande Group)**,Jan – Apr 2018
+**Hdfax(a Financial Technology Company under Evergrande Group)**, Shenzhen
 
-**Sales Consultant**, Shaoguan, China
+**Sales Consultant**, Jan - Mar 2018
 
 * Sold more than 10 million micro-credit products.
 
----
-
-**Hdfax(a Financial Technology Company under Evergrande Group)**,Aug 2017 – Jan 2018
-
-**Product Manager**,Shenzhen, China
+**Product Manager**, Aug 2017 – Jan 2018
 
 * Collected requirements and designed solutions for Internet micro-credit products.
 * Field research on target users' using habits of micro-credit products.
